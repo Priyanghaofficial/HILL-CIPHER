@@ -68,7 +68,7 @@ void hill(char *in, char *out, int enc)
   out[len] = 0;
 }
 int main() {
-  char msg[] = "PIRITHARAMAN", enc[100], dec[100];
+  char msg[] = "PRIYANGHA", enc[100], dec[100];
   hill(msg, enc, 1); printf("Encrypted: %s\n", enc);
   hill(enc, dec, 0); printf("Decrypted: %s\n", dec);
 }
@@ -76,7 +76,8 @@ int main() {
 
 ## OUTPUT
 
-<img width="521" height="244" alt="image" src="https://github.com/user-attachments/assets/3ad5f595-45b5-44b0-9ed8-735c14e3e52f" />
+
+![WhatsApp Image 2025-11-05 at 11 09 56_6da8958d](https://github.com/user-attachments/assets/d9c3d89e-dd0a-45df-af3e-2e44bb49fc61)
 
 
 ## RESULT
